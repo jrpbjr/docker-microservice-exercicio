@@ -89,12 +89,6 @@ docker-compose up --build
 
 ---
 
-## 🧱 Projeto Base
-
-Fork de: [denilsonbonatti/toshiro-shibakita](https://github.com/denilsonbonatti/toshiro-shibakita)
-
----
-
 ## 🔧 Melhorias Implementadas
 
 - Estrutura modularizada
